@@ -11,6 +11,7 @@
   "author": "nathipg",
   "license": "ISC",
   "dependencies": {
+    "@applitools/eyes-cypress": "^3.23.9",
     "cypress": "^3.8.3"
   }
 }
